@@ -1,6 +1,6 @@
 name,position,appearances,goals,tackles,passes,assists,shots,hit woordwork,crosses,blocks,clearances,headed clearances,clean sheets,saves,punches,goals conceded,yellow cards,red cards,fouls,offsides
 
-Sergio Agüero,Forward,23,17,16,538,6,84,5,7,20,3,0,0,0,0,3,0,15,18
+Sergio Agüero,Forward,23,17,16,538,6,84,5,7,20,3,0,0,0,0,3,0,15,18,0
 Aymeric Laporte,Defender,27,2,30,2313,1,0,0,6,69,12,0,0,0,3,0,19,2
 Mohamed Salah,Forward,26,17,13,739,7,87,1,49,21,4,1,0,0,0,0,0,0,20,21
 Pierre-Emerick Aubameyang,Forward,25,15,19,518,4,63,3,26,13,15,4,0,0,0,0,0,0,11,17
@@ -22,7 +22,7 @@ Alisson,Goalkeeper,26,0,0,731,0,0,0,0,0,0,0,14,53,12,15,0,0,0,0
 Ederson,Goalkeeper,27,0,0,702,1,0,0,0,0,0,0,12,46,5,20,2,0,2,0
 Kepa Arrizabalaga,Goalkeeper,26,0,0,748,0,0,0,0,0,0,0,11,55,7,29,1,0,0,0
 Hugo Lloris,Goalkeeper,22,0,0,721,0,0,0,0,0,0,9,72,13,20,0,0,0,0
-Martin Dubravka,Goalkeeper,26,0,0,741,0,0,0,0,0,0,0,7,77,10,34,,0,0,0,0
+Martin Dubravka,Goalkeeper,26,0,0,741,0,0,0,0,0,0,0,7,77,10,34,0,0,0,0
 Neil Etheridge,Goalkeeper,27,0,0,791,0,0,0,0,0,0,0,7,77,97,8,52,2,0,0,0
 Ben Foster,Goalkeeper,27,0,0,826,0,0,0,0,0,0,0,7,86,7,35,1,0,2
 Kasper Schmeichel,Goalkeeper,26,0,0,740,0,0,0,0,0,0,0,7,62,11,34,1,0,0
