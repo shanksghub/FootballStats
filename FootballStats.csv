@@ -1,0 +1,55 @@
+name,position,appearances,goals,tackles,passes,assists,shots,hit woordwork,crosses,blocks,clearances,headed clearances,clean sheets,saves,punches,goals conceded,yellow cards,red cards,fouls,offsides
+
+Sergio Agüero,Forward,23,17,16,538,6,84,5,7,20,3,0,0,0,0,3,0,15,18
+Aymeric Laporte,Defender,27,2,30,2313,1,0,0,6,69,12,0,0,0,3,0,19,2
+Mohamed Salah,Forward,26,17,13,739,7,87,1,49,21,4,1,0,0,0,0,0,0,20,21
+Pierre-Emerick Aubameyang,Forward,25,15,19,518,4,63,3,26,13,15,4,0,0,0,0,0,0,11,17
+Harry Kane,Forward,22,14,7,446,4,77,1,9,18,11,9,0,0,0,0,4,0,23,7
+Eden Hazard,Forward,25,12,9,1273,10,67,1,75,27,4,1,0,0,0,0,2,0,10,7
+Sadio Mané,Forward,24,12,30,789,9,8,2,0,0,0,0,1,0,30,17
+Raheem Sterling,Forward,24,12,22,920,46,3,58,14,4,1,0,0,0,0,2,0,22,8
+Alexandre Lacazette,Forward,25,10,28,551,5,49,1,19,8,19,12,0,0,0,0,2,0,40,14
+Aleksandar Mitrovic,Forward,27,10,18,744,2,93,3,5,21,47,42,0,0,0,0,6,0,40,28
+Anthony Martial,Forward,20,9,7,569,2,30,0,31,7,7,3,0,0,0,0,2,0,13,5
+Roberto Firmino,Forward,26,9,21,1018,4,57,1,6,12,10,0,0,0,0,0,0,30,3
+Raúl Jiménez,Forward,26,9,22,725,5,81,20,16,26,19,0,0,0,0,2,0,29,21
+Joshua King,Forward,23,8,17,529,3,47,0,30,10,7,0,0,0,0,1,0,32,5
+Richarlison,Forward,25,10,31,560,1,55,1,18,31,25,0,0,0,0,3,1,20,16
+Paul Pogba,Midfielder,23,11,28,1423,8,79,1,22,25,17,0,0,0,0,3,0,33,2
+Son Heung-Min,Forward,20,11,18,5,508,21,17,2,0,0,0,0,0,2,0,8,15
+Gylfi Sigurdsson,Midfielder,27,9,41,663,3,63,3,23,15,6,0,0,0,0,3,0,25,2
+Alisson,Goalkeeper,26,0,0,731,0,0,0,0,0,0,0,14,53,12,15,0,0,0,0
+Ederson,Goalkeeper,27,0,0,702,1,0,0,0,0,0,0,12,46,5,20,2,0,2,0
+Kepa Arrizabalaga,Goalkeeper,26,0,0,748,0,0,0,0,0,0,0,11,55,7,29,1,0,0,0
+Hugo Lloris,Goalkeeper,22,0,0,721,0,0,0,0,0,0,9,72,13,20,0,0,0,0
+Martin Dubravka,Goalkeeper,26,0,0,741,0,0,0,0,0,0,0,7,77,10,34,,0,0,0,0
+Neil Etheridge,Goalkeeper,27,0,0,791,0,0,0,0,0,0,0,7,77,97,8,52,2,0,0,0
+Ben Foster,Goalkeeper,27,0,0,826,0,0,0,0,0,0,0,7,86,7,35,1,0,2
+Kasper Schmeichel,Goalkeeper,26,0,0,740,0,0,0,0,0,0,0,7,62,11,34,1,0,0
+David De Gea,Goalkeeper,26,0,0,666,0,0,0,0,0,0,0,6,93,8,35,1,0,0
+Rui Patrício,Goalkeeper,26,0,0,532,0,0,0,0,0,0,0,6,77,6,33,0,0,0,0
+James Tarkowski,Defender,23,3,42,753,0,0,1,3,0,156,95,5,0,0,0,5,0,21,4
+Sol Bamba,Defender,26,4,69,520,1,0,2,1,2,169,78,7,0,0,47,6,0,33,2
+Steve Cook,Defender,26,1,31,1222,1,0,0,11,5,175,7,0,0,47,2,0,15,1
+Nathan Aké,Defender,26,3,37,1187,0,0,1,1,4,160,92,0,0,0,47,2,0,16,2
+Lucas Digne,Defender,24,3,49,958,3,0,2,197,10,53,31,0,0,0,31,3,1,28,1
+Steve Cook,Defender,26,1,31,1222,1,0,0,11,5,175,83,0,0,0,47,2,0,15,1
+Jamaal Lascelles,Defender,22,0,25,770,1,0,1,150,81,6,0,0,0,25,3,0,12,1
+Craig Cathcart,Defender,26,3,40,930,0,0,3,3,143,62,0,0,0,35,1,0,13,0
+Virgil van Dijk,Defender,26,1,2115,1,0,3,0,7,133,70,0,0,0,15,1,0,11,0
+Jannik Vestergaard,Defender,17,0,35,,691,0,0,1,2,121,71,0,0,0,22,2,0,14,0
+Fabián Balbuena,Defender,17,1,33,633,0,1,1,2,123,59,0,0,0,25,2,0,16,0
+Mamadou Sakho,Defender,26,0,25,1282,0,0,0,0,126,78,0,0,0,34,2,0,5,0
+Denis Odoi,Defender,25,0,37,1153,1,0,0,10,1,130,54,0,0,0,55,4,0,30,0
+Lewis Dunk,Defender,24,2,32,989,0,0,0,1,0,126,78,0,0,0,34,4,1,19,0
+Nemanja Matic,Midfielder,23,1,40,1574,0,10,0,9,4,47,26,0,0,0,0,5,1,21,1
+David Silva,Midfielder,23,6,19,1352,4,40,0,61,17,8,0,0,0,0,2,0,16,4
+Jean Michael Seri,Midfielder,27,1,40,1463,2,16,1,99,7,14,6,0,0,0,0,6,0,29,1
+Rúben Neves,Midfielder,24,3,55,1297,2,56,0,24,23,23,9,0,0,0,0,6,0,28,0
+
+
+
+
+
+
+
